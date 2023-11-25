@@ -1,17 +1,17 @@
-# CoRoutines package for U++
+# Пакет сопроцедур для U++/DinrusIDE
 
-U++ CoRoutines interface for ![C++20 coroutines](https://en.cppreference.com/w/cpp/language/coroutines).
+Интерфейс к сопроцедурам из ![C++20 coroutines](https://en.cppreference.com/w/cpp/language/coroutines).
 
-## Requirements
-- GCC or CLANG with at least C++20 coroutines support.
+## Требования
+- GCC или CLANG с поддержкой сопроцедур C++20.
 
-## Features and Highlights
+## Особенности
 
-To be written...
+Не написано...
 
-## Example
+## Пример
 
-|**Name**            | **Description**                                                                           |
+|**Имя**            | **Описание**                                                                           |
 |:---                |:---                                                                                       |
-| CoRoutinesExample| Demonstrates the basic usage of CoRoutines package.    |
+| CoRoutinesExample| Демонстрирует основы использования пакета CoRoutines.    |
 
